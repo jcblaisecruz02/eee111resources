@@ -1,2 +1,2 @@
-# eee111resources
+# EEE111 Resources
 Resources for UP Diliman EEE111 Course
