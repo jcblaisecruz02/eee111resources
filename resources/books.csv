@@ -1,0 +1,11 @@
+id,name,author,classification
+0001,book1,author1,general
+0002,book2,author2,general
+0003,book3,author2,general
+0004,book4,author2,general
+0005,book5,author3,general
+0006,book6,author3,general
+0007,book7,author3,restricted
+0008,book8,author4,restricted
+0009,book9,author4,restricted
+0010,book10,author5,restricted
